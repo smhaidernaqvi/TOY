@@ -1,2 +1,2 @@
 # TOY_8
-every thing is done this ALU
+every thing is done till ALU
